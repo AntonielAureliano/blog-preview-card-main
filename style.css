@@ -1,0 +1,11 @@
+/*Footer*/
+
+.attribution {
+    font-size: .6875rem; 
+    margin-top: 30px;
+    text-align: center; 
+}
+
+.attribution a {
+    color: var(--neutral-link); 
+}
