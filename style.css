@@ -120,10 +120,10 @@ body {
 /*Responsive*/
 @media screen and (max-width: 375px) {
     .blog-img img {
-        max-width: 310px;
+        max-width: 315px;
     }
     .blog-content {
-        max-width: 310px;
+        max-width: 315px;
     }
     .container {
         padding: 15px;
