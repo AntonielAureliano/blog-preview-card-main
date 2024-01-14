@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/AntonielAureliano/blog-preview-card-main)
+- Live Site URL:(https://antonielaureliano.github.io/blog-preview-card-main/)
 
 ### Built with
 
